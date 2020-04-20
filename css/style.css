@@ -76,7 +76,7 @@ textarea{
     pointer-events: none;
   }
 ::placeholder{
-    color: rgba(0, 0, 0, 0.658);
+    color: rgba(0, 0, 0, 0.55);
     text-transform: capitalize;
 }
 
